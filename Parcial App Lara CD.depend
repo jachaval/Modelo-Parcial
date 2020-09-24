@@ -1,0 +1,309 @@
+# depslib dependency file v1.0
+1600404242 source:c:\users\joa_a\documents\utn\2do cuatrimestre\laboratorio de computacion 2\parcial app lara cd\fecha.cpp
+	<iostream>
+	<cstdlib>
+	<cstdio>
+	<cstring>
+	<locale.h>
+	<ctime>
+	"fecha.h"
+
+1600404294 c:\users\joa_a\documents\utn\2do cuatrimestre\laboratorio de computacion 2\parcial app lara cd\fecha.h
+
+1600404242 source:c:\users\joa_a\documents\utn\2do cuatrimestre\laboratorio de computacion 2\parcial app lara cd\interfaz.cpp
+	<iostream>
+	<cstring>
+	"interfaz.h"
+	"rlutil.h"
+
+1600404242 c:\users\joa_a\documents\utn\2do cuatrimestre\laboratorio de computacion 2\parcial app lara cd\interfaz.h
+
+1571584339 c:\users\joa_a\documents\utn\2do cuatrimestre\laboratorio de computacion 2\parcial app lara cd\rlutil.h
+	<iostream>
+	<string>
+	<cstdio>
+	<stdio.h>
+	<string.h>
+	<windows.h>
+	<conio.h>
+	<termios.h>
+	<unistd.h>
+	<sys/ioctl.h>
+	<sys/types.h>
+	<sys/time.h>
+
+1600408320 source:c:\users\joa_a\documents\utn\2do cuatrimestre\laboratorio de computacion 2\parcial app lara cd\main.cpp
+	<iostream>
+	<cstdlib>
+	<cstdio>
+	<cstring>
+	<locale.h>
+	<ctime>
+	"rlutil.h"
+	"menu.h"
+	"usuario.h"
+	"fecha.h"
+
+1600408320 c:\users\joa_a\documents\utn\2do cuatrimestre\laboratorio de computacion 2\parcial app lara cd\menu.h
+
+1600558481 c:\users\joa_a\documents\utn\2do cuatrimestre\laboratorio de computacion 2\parcial app lara cd\usuario.h
+	"fecha.h"
+
+1600556399 source:c:\users\joa_a\documents\utn\2do cuatrimestre\laboratorio de computacion 2\parcial app lara cd\menu.cpp
+	<iostream>
+	<cstdlib>
+	<cstdio>
+	<cstring>
+	<locale.h>
+	<ctime>
+	"interfaz.h"
+	"rlutil.h"
+	"menu.h"
+	"usuario.h"
+	"entrenamiento.h"
+	"fecha.h"
+
+1600560893 source:c:\users\joa_a\documents\utn\2do cuatrimestre\laboratorio de computacion 2\parcial app lara cd\usuario.cpp
+	<iostream>
+	<cstdlib>
+	<cstdio>
+	<cstring>
+	<locale.h>
+	<iomanip>
+	"rlutil.h"
+	"interfaz.h"
+	"usuario.h"
+	"fecha.h"
+
+1600557882 c:\users\joa_a\documents\utn\2do cuatrimestre\laboratorio de computacion 2\parcial app lara cd\entrenamiento.h
+	"fecha.h"
+
+1600562095 source:c:\users\joa_a\documents\utn\2do cuatrimestre\laboratorio de computacion 2\parcial app lara cd\entrenamiento.cpp
+	<iostream>
+	<cstdlib>
+	<cstdio>
+	<cstring>
+	<locale.h>
+	<iomanip>
+	"rlutil.h"
+	"interfaz.h"
+	"usuario.h"
+	"fecha.h"
+	"entrenamiento.h"
+
+1600404242 source:c:\users\joa_a\documents\utn\2do cuatrimestre\laboratorio de computacion 2\parcial app lara cd - copia\fecha.cpp
+	<iostream>
+	<cstdlib>
+	<cstdio>
+	<cstring>
+	<locale.h>
+	<ctime>
+	"fecha.h"
+
+1600404294 c:\users\joa_a\documents\utn\2do cuatrimestre\laboratorio de computacion 2\parcial app lara cd - copia\fecha.h
+
+1600404242 source:c:\users\joa_a\documents\utn\2do cuatrimestre\laboratorio de computacion 2\parcial app lara cd - copia\interfaz.cpp
+	<iostream>
+	<cstring>
+	"interfaz.h"
+	"rlutil.h"
+
+1600404242 c:\users\joa_a\documents\utn\2do cuatrimestre\laboratorio de computacion 2\parcial app lara cd - copia\interfaz.h
+
+1571584339 c:\users\joa_a\documents\utn\2do cuatrimestre\laboratorio de computacion 2\parcial app lara cd - copia\rlutil.h
+	<iostream>
+	<string>
+	<cstdio>
+	<stdio.h>
+	<string.h>
+	<windows.h>
+	<conio.h>
+	<termios.h>
+	<unistd.h>
+	<sys/ioctl.h>
+	<sys/types.h>
+	<sys/time.h>
+
+1600408320 source:c:\users\joa_a\documents\utn\2do cuatrimestre\laboratorio de computacion 2\parcial app lara cd - copia\main.cpp
+	<iostream>
+	<cstdlib>
+	<cstdio>
+	<cstring>
+	<locale.h>
+	<ctime>
+	"rlutil.h"
+	"menu.h"
+	"usuario.h"
+	"fecha.h"
+
+1600739281 c:\users\joa_a\documents\utn\2do cuatrimestre\laboratorio de computacion 2\parcial app lara cd - copia\menu.h
+
+1600558481 c:\users\joa_a\documents\utn\2do cuatrimestre\laboratorio de computacion 2\parcial app lara cd - copia\usuario.h
+	"fecha.h"
+
+1600744929 source:c:\users\joa_a\documents\utn\2do cuatrimestre\laboratorio de computacion 2\parcial app lara cd - copia\menu.cpp
+	<iostream>
+	<cstdlib>
+	<cstdio>
+	<cstring>
+	<locale.h>
+	<ctime>
+	"interfaz.h"
+	"rlutil.h"
+	"menu.h"
+	"usuario.h"
+	"entrenamiento.h"
+	"fecha.h"
+	"reportes.h"
+
+1600557882 c:\users\joa_a\documents\utn\2do cuatrimestre\laboratorio de computacion 2\parcial app lara cd - copia\entrenamiento.h
+	"fecha.h"
+
+1600560893 source:c:\users\joa_a\documents\utn\2do cuatrimestre\laboratorio de computacion 2\parcial app lara cd - copia\usuario.cpp
+	<iostream>
+	<cstdlib>
+	<cstdio>
+	<cstring>
+	<locale.h>
+	<iomanip>
+	"rlutil.h"
+	"interfaz.h"
+	"usuario.h"
+	"fecha.h"
+
+1600744753 source:c:\users\joa_a\documents\utn\2do cuatrimestre\laboratorio de computacion 2\parcial app lara cd - copia\entrenamiento.cpp
+	<iostream>
+	<cstdlib>
+	<cstdio>
+	<cstring>
+	<locale.h>
+	<iomanip>
+	"rlutil.h"
+	"interfaz.h"
+	"usuario.h"
+	"fecha.h"
+	"entrenamiento.h"
+
+1600979406 source:c:\users\joa_a\documents\utn\2do cuatrimestre\laboratorio de computacion 2\parcial app lara cd - copia\reportes.cpp
+	<iostream>
+	<cstdlib>
+	<cstdio>
+	<cstring>
+	<locale.h>
+	<iomanip>
+	"rlutil.h"
+	"interfaz.h"
+	"entrenamiento.h"
+	"reportes.h"
+
+1600979406 c:\users\joa_a\documents\utn\2do cuatrimestre\laboratorio de computacion 2\parcial app lara cd - copia\reportes.h
+	"entrenamiento.h"
+	"usuario.h"
+
+1600744753 source:c:\users\joa_a\desktop\parcial app lara cd. modelo parcial\entrenamiento.cpp
+	<iostream>
+	<cstdlib>
+	<cstdio>
+	<cstring>
+	<locale.h>
+	<iomanip>
+	"rlutil.h"
+	"interfaz.h"
+	"usuario.h"
+	"fecha.h"
+	"entrenamiento.h"
+
+1571584339 c:\users\joa_a\desktop\parcial app lara cd. modelo parcial\rlutil.h
+	<iostream>
+	<string>
+	<cstdio>
+	<stdio.h>
+	<string.h>
+	<windows.h>
+	<conio.h>
+	<termios.h>
+	<unistd.h>
+	<sys/ioctl.h>
+	<sys/types.h>
+	<sys/time.h>
+
+1600404242 c:\users\joa_a\desktop\parcial app lara cd. modelo parcial\interfaz.h
+
+1600558481 c:\users\joa_a\desktop\parcial app lara cd. modelo parcial\usuario.h
+	"fecha.h"
+
+1600404294 c:\users\joa_a\desktop\parcial app lara cd. modelo parcial\fecha.h
+
+1600557882 c:\users\joa_a\desktop\parcial app lara cd. modelo parcial\entrenamiento.h
+	"fecha.h"
+
+1600404242 source:c:\users\joa_a\desktop\parcial app lara cd. modelo parcial\fecha.cpp
+	<iostream>
+	<cstdlib>
+	<cstdio>
+	<cstring>
+	<locale.h>
+	<ctime>
+	"fecha.h"
+
+1600404242 source:c:\users\joa_a\desktop\parcial app lara cd. modelo parcial\interfaz.cpp
+	<iostream>
+	<cstring>
+	"interfaz.h"
+	"rlutil.h"
+
+1600408320 source:c:\users\joa_a\desktop\parcial app lara cd. modelo parcial\main.cpp
+	<iostream>
+	<cstdlib>
+	<cstdio>
+	<cstring>
+	<locale.h>
+	<ctime>
+	"rlutil.h"
+	"menu.h"
+	"usuario.h"
+	"fecha.h"
+
+1600739281 c:\users\joa_a\desktop\parcial app lara cd. modelo parcial\menu.h
+
+1600744929 source:c:\users\joa_a\desktop\parcial app lara cd. modelo parcial\menu.cpp
+	<iostream>
+	<cstdlib>
+	<cstdio>
+	<cstring>
+	<locale.h>
+	<ctime>
+	"interfaz.h"
+	"rlutil.h"
+	"menu.h"
+	"usuario.h"
+	"entrenamiento.h"
+	"fecha.h"
+	"reportes.h"
+
+1600744874 c:\users\joa_a\desktop\parcial app lara cd. modelo parcial\reportes.h
+
+1600745225 source:c:\users\joa_a\desktop\parcial app lara cd. modelo parcial\reportes.cpp
+	<iostream>
+	<cstdlib>
+	<cstdio>
+	<cstring>
+	<locale.h>
+	<iomanip>
+	"rlutil.h"
+	"interfaz.h"
+	"entrenamiento.h"
+	"reportes.h"
+
+1600560893 source:c:\users\joa_a\desktop\parcial app lara cd. modelo parcial\usuario.cpp
+	<iostream>
+	<cstdlib>
+	<cstdio>
+	<cstring>
+	<locale.h>
+	<iomanip>
+	"rlutil.h"
+	"interfaz.h"
+	"usuario.h"
+	"fecha.h"
+
